@@ -179,7 +179,7 @@ class OptionsTabFirstPlugin(
             player.setVarbit(Varbit.SETTINGS_TAB_FOCUS, 0)
         }
         bind_setting(68) {
-            player.setVarbit(Varbit.SETTINGS_TAB_FOCUS, 1)
+            player.setVarbit(Varbit.SETTINGS_TAB_FOCUS, 2)
         }
         bind_setting(69) {
             player.setVarbit(Varbit.SETTINGS_TAB_FOCUS, 2)
